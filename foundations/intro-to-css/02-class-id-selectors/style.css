@@ -1,0 +1,21 @@
+p {
+    font-family: Verdan, DejaVu Sans, sans-serif;
+    background-color: #ffc0cb
+
+}
+
+#element2 {
+    background-color: transparent;
+    font-size: 32px;
+    color: #0000ff;
+}
+
+#element4 {
+    background-color: hsl(146, 100%, 59%);
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.cooler {
+    font-size: larger;
+}
